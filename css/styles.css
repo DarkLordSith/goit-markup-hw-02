@@ -1,5 +1,5 @@
 body{
-    font-family: "Roboto", sans-serif;
+    font-family: "Roboto", "Raleway", sans-serif;
     color: #2e2f42;
     background: #fff;
 }
@@ -7,19 +7,21 @@ body{
 .head-line{
     font-weight: 500;
     font-size: 16px;
-    line-height: 150%;
+    line-height: 1.5;
     text-align: center;
 }
 
-ul{
+.navigation-bar{
     list-style-type: none;
 }
 
 h3{
-    line-height: 120%;
+    font-size: 20px;
+    line-height: 1.2;
 }
 p {
-    line-height: 150%;
+    font-size: 16px;
+    line-height: 1.5;
 }
 
 .head-line .link{
@@ -38,29 +40,26 @@ p {
 .portfolio-page-title{
     font-weight: 700;
     font-size: 36px;
-    line-height: 111%;
+    line-height: 1.11;
     text-align: center;
 }
 
 .portfolio-page-row-one{
-
+     list-style-type: none;
 }
 
 .portfolio-page-row-two{
-
+     list-style-type: none;
 }
 
 .footer{
     background: #2e2f42;
 }
 
-.foter-logo{
-    font-weight: 400;
-    font-size: 16px;
-    text-decoration: none;
-}
-
 .footer-info-text{
     color: #f4f4fd;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
 }
 
